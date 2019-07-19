@@ -1,6 +1,6 @@
 {
   "name": "init-git",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Initialize git repository at given directory path",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
